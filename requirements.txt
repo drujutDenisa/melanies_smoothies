@@ -2,3 +2,4 @@
 snowflake-snowpark-python==1.21.0
 streamlit
 requests
+pandas
